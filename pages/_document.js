@@ -34,7 +34,6 @@ class MyDocument extends Document {
             href="/favicons/safari-pinned-tab.svg"
             rel="mask-icon"
           />
-          <link rel="canonical" href="https://pejuangkode.com" />
           <meta content="IE=edge" httpEquiv="X-UA-Compatible" />
           <meta content="#3182CE" name="theme-color" />
           <meta content="#3182CE" name="msapplication-TileColor" />
