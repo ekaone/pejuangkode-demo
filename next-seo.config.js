@@ -1,6 +1,6 @@
 const title = "Pejuang Kode";
 const description =
-  "Komunitas Pejuang Kode Indonesia adalah komunitas para developer frontend dengan tujuan bertukar informasi dan berbagi untuk kemajuan bersama. ";
+  "Pejuang Kode adalah wadah belajar bersama dengan beragam topik bahasan mulai dari pemrograman, karir, hingga keluarga.";
 
 const SEO = {
   title,
