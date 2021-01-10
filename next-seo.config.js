@@ -9,16 +9,15 @@ const SEO = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    site_name: "Pejuang Kode",
     url: "https://pejuangkode-demo.vercel.app",
     title,
     description,
     images: [
       {
-        url: "https://pejuangkode-demo.vercel.app/images/banner.jpg",
+        url: "https://pejuangkode-demo.vercel.app/images/banner@2x.jpg",
         alt: title,
-        width: 512,
-        height: 512,
+        width: 1024,
+        height: 1024,
       },
     ],
   },
