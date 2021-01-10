@@ -5,17 +5,17 @@ const description =
 const SEO = {
   title,
   description,
-  canonical: "https://pejuangkode.com",
+  canonical: "https://pejuangkode-demo.vercel.app",
   openGraph: {
     type: "website",
     locale: "id_ID",
     site_name: "Pejuang Kode",
-    url: "https://pejuangkode.com",
+    url: "https://pejuangkode-demo.vercel.app",
     title,
     description,
     images: [
       {
-        url: "https://pejuangkode-demo.vercel.app/images/banner.png",
+        url: "https://pejuangkode-demo.vercel.app/images/banner.jpg",
         alt: title,
         width: 512,
         height: 512,
