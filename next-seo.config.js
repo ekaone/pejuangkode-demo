@@ -15,7 +15,7 @@ const SEO = {
     description,
     images: [
       {
-        url: "https://pejuangkode.com/images/banner.png",
+        url: "https://pejuangkode-demo.vercel.app/images/banner.png",
         alt: title,
         width: 512,
         height: 512,
