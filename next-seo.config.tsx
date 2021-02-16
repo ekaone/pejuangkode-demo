@@ -1,9 +1,9 @@
 type MYSEO = {
-  title: string,
-  description: string,
-  canonical: string,
-  openGraph: object,
-  twitter: object,
+  title: string;
+  description: string;
+  canonical: string;
+  openGraph: object;
+  twitter: object;
 };
 
 const title = "Pejuang Kode";
@@ -13,16 +13,16 @@ const description =
 const SEO: MYSEO = {
   title,
   description,
-  canonical: "https://pejuangkode.vercel.app",
+  canonical: "https://pejuangkode-demo.vercel.app",
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://pejuangkode.vercel.app",
+    url: "https://pejuangkode-demo.vercel.app",
     title,
     description,
     images: [
       {
-        url: "https://pejuangkode.vercel.app/images/banner.jpg",
+        url: "https://pejuangkode-demo.vercel.app/images/banner.jpg",
         alt: title,
         width: 1024,
         height: 1024,
